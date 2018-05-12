@@ -1,0 +1,754 @@
+h3
+{
+    padding-bottom: 16px;
+    color: #304352;
+    font: bold 22px/ 32px "Open sans", sans-serif;
+}
+
+p
+{
+    color: #555555;
+    font: 16px/ 28px "Georgia";
+}
+
+.background_image
+{
+    filter: contrast(0.5);
+    width: 100%;
+}
+
+.main_block
+{
+    margin: 0 auto;
+    margin-top: -205px;
+    width: 960px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.navigation
+{
+    width: 960px;
+    margin: auto;
+}
+
+.navigation_link
+{
+    display: inline-block;
+    padding: 0px 30px;
+    text-align: center;
+    font: italic 19px/ 50px "Georgia", sans-serif;
+}
+
+.navigation_link:hover
+{
+    background: #15a98c;
+    color: #fff;
+}
+
+.navigation a
+{
+    font: italic 19px/ 50px "Georgia", sans-serif;
+    text-decoration: none;
+    color: #333333;
+}
+
+
+.left_block
+{
+    float: left;
+    width: 330px;
+    padding-top: 15px;
+    box-sizing: border-box;
+
+
+}
+
+.right_block
+{
+    width: 590px;
+    float: right;
+    box-sizing: border-box;
+    position: relative;
+    margin-top: -240px; 
+}
+
+.photo
+{
+    width: 330px;
+    height: 350px;
+    margin-bottom: 41px;
+}
+
+.quotes_block
+{
+    float: right;
+    width: 60%;
+}
+
+.title_block
+{
+    color: #15a98c;
+    font-weight: 600;
+    height: 260px;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+}
+
+.list
+{
+    font: 19px/36px "Georgia";
+    color: #555555;
+    box-sizing: border-box;
+}
+
+.subjects
+{
+    margin-top: 13px;
+    margin-bottom: 43px;
+    padding-left: 23px;
+    width: 330px;
+
+}
+
+.writers
+{
+    margin-top: 12px;
+    margin-bottom: 41px;
+    padding-left: 20px;
+    width: 330px;
+}
+
+
+.quotes
+{
+    font: italic 28px/42px "Georgia";
+    color: #ffffff;
+    padding-top: 40px;
+    width: 430px;
+}
+
+.author
+{
+    margin-top: 2px;
+    padding-right: 5px;
+    font: 16px/42px "Open Sans", sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+    height: 50px;
+}
+
+.content
+{
+    line-height: 36px;
+    width: 480px;
+    margin-top: 75px;
+}
+
+.name
+{
+    font: 48px/42px "Open Sans", sans-serif;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 32px;
+    padding-top: 7px;
+    width: 550px;
+}
+
+.rectangle
+{
+    background-color: #45c3aa;
+    margin-bottom: 29px;
+    width: 60px;
+    height: 6px;
+    border-radius: 3px;
+    display: inline-block;
+}
+
+.info
+{
+    font: 19px/32px "Georgia";;
+    color: #555555;
+    margin-bottom: -10px;
+    line-height: 32px;
+    box-sizing: border-box;
+}
+
+.hobbies
+{
+    margin-top: 18px;
+    font-family: "Georgia";
+    font-size: 19px;
+    color: #555555;
+    line-height: 32px;
+    box-sizing: border-box;
+}
+
+
+.header
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 36px;
+    color: #333333;
+    margin-top: 56px;
+    margin-left: -3px;
+}
+
+.link_block
+{
+    font-family: "Georgia";
+    font-size: 19px;
+    line-height: 1.684;
+}
+
+.write_me
+{
+    width: 220px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.link
+{
+    color: #15a98b;
+    text-decoration: none;
+}
+
+.ku
+{
+    text-decoration: underline;
+}
+
+.columns_favorite_movie
+{
+    margin: auto;
+    width: 100%;
+}
+
+.films_block
+{ 
+    width: 1260px;
+    margin: 0 auto;
+}
+
+.favourite_films
+{
+    color: #333333;
+    font: 400 36px/ 42px "Open sans", sans-serif;
+    padding-top: 93px;  
+    margin-bottom: 33px;
+}
+
+.film
+{
+    float: left;
+    width: 285px;
+    padding-left: 20px;
+    font-family: "Georgia";
+    font-size: 16px
+}
+
+.film.one
+{
+    padding: 0 20px;
+}
+
+.film_image
+{
+    width: 285px;
+    height: 190px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.favourite_films_block
+{
+    width: 1260px;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.allfilms_button
+{
+    width: 220px;
+    margin: auto;
+    height: 50px;
+    margin-top: 60px;
+    padding-bottom: 62px;
+}
+
+.allfilms
+{
+    display: block;
+    text-decoration: none;
+    color: #ffffff;
+    text-align: center;
+    background-color: #15a98c;
+    border-radius: 5px;
+    font: 19px/50px "Georgia";
+}
+
+.allfilms:hover
+{
+    background: #00FF00;
+    color: #fff;
+}
+
+.copyright
+{
+    height: 70px;
+    margin: 0 auto;
+    background-color: #D3D3D3;
+    width: 100%;
+}
+
+.copyright_text
+{
+    padding-top: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.feedback_block
+{
+    width: 700px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.feedback_header
+{
+    padding-top: 43px;
+    text-align: center;
+    font: 36px/42px "Open Sans", sans-serif;
+    color: #333;
+    overflow: hidden;
+}
+
+.to_me
+{
+    display: inline-block;
+    margin: 0 auto;
+    font: 36px/42px  "Open Sans", sans-serif;
+    color: #333333;
+}
+
+.feedback_header:before,.feedback_header:after
+{
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: 1px;
+    background-color: #A9A9A9;
+    position: relative;
+}
+
+.feedback_header:before 
+{
+    margin-left: -100%;
+    left: -15px;
+}
+
+.feedback_header:after
+{
+    margin-right: -100%;
+    right: -15px;
+}
+
+.registration_block
+{
+    width: 540px;
+    margin-top:  68px;
+    margin-left: 89px;
+    box-sizing: border-box;
+}
+
+.gender_block
+{
+    padding: 16px 0 36px 0;
+}
+
+.gender_name
+{
+    font: 18px/32px "Open Sans", sans-serif;
+    color: #333;
+    padding-left: 3px;
+}
+
+.radio_gender
+{
+    margin-left: 1px;
+}
+
+
+.female
+{
+    margin-left: 37px;
+}
+
+.registration_zone input, .registration_zone select
+{
+    box-sizing: border-box;
+    font: 18px/32px "Open Sans", sans-serif;
+    padding-left: 12px;
+}
+
+.registration_zone
+{
+    padding-bottom: 25px;
+    color: #555;
+}
+
+.input_zone
+{
+    width: 540px;
+    height: 50px;
+    border-radius: 3px;
+    border: 2px solid #c9c9c9;
+    margin-top: 3px;
+}
+
+.comment_block
+{
+    padding-bottom: 45px;
+}
+
+.comment
+{
+    padding-bottom: 4px;
+}
+
+.submit
+{
+    width: 220px;
+    height: 50px;
+    background-color: #098d71;
+    border-radius: 5px ;
+    border-color: #fff;
+    font: 19px/ 50px "Georgia";
+    color: #fff;
+    text-align: center;
+}
+
+.send_button
+{
+      padding-bottom: 50px;
+}
+
+.submit:hover
+{
+    background: #15a98c;
+    cursor: pointer;
+}
+
+textarea
+{
+    width: 537px;
+    height: 145px;
+    border: 2px solid #c9c9c9;
+    border-radius: 3px;
+    resize: none;
+    font: 18px/32px "Open Sans", sans-serif;
+}
+
+input:hover, select:hover,  textarea:hover
+{
+    border-color: #708090;
+}
+
+input:focus, select:focus, textarea:focus
+{
+    border-color: #15a98c;
+}
+
+label
+{
+    font: 20px/32px "Open Sans", sans-serif;
+    color: #333;
+}
+
+label span
+{
+    color: red;
+}
+
+.gender
+{
+    height: 36px;
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 801px)
+{
+    .columns_favorite_movie
+    {
+        width: 100%;
+    }
+
+    .films_block
+    {
+        width: 100%;
+    }
+
+    .favourite_films_block
+    {
+        width: 100%;
+    }
+    
+    .film
+    {
+        width: 50%;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+
+    .film.one
+    {
+        padding: 20px;
+    }
+    
+    .film_image
+    {
+        width: 100%;
+        height: 300px;
+    }
+}
+ 
+@media only screen and (max-width: 1100px)
+{
+    .navigation
+    {
+        width: 90%;
+    }
+
+    .background
+    {
+        width: 100%;
+    }
+
+    .right_block
+    {
+        width: 100%;
+    }
+
+    .content
+    {
+        width: 100%;
+    }
+
+    .photo
+    {
+        width: 25%;
+        height: 25%;
+    }
+
+    .quotes_block
+    {
+        width: 72%;
+    }
+
+    .left_block
+    {
+        width: 100%;
+    }
+
+    .right_block
+    {
+        margin-top: -150px;
+    }
+
+    .list
+    {
+        width: 60%;
+    }
+
+    .list.one
+    {
+        float: right;
+    }
+
+    .content
+    {
+        margin: 0;
+    }
+    
+    .nick
+    {
+        margin-left: 270px;
+    }
+    
+    .write_me
+    {
+        width: 80%;
+        margin: 0 50px;
+    }
+
+    .main_block
+    {
+        width: 90%;
+    }
+
+}
+
+@media only screen and (max-width: 990px)
+{
+    .right_block
+    {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    .nick
+    {
+        margin: 0;
+    }
+
+    .photo
+    {
+        display: none;
+    }
+
+    .quotes_block
+    {
+        width: 100%;
+    }
+
+    .right_block
+    {
+        padding-top: 40px;
+    }
+
+    .write_me
+    {
+        width: 70%;
+    }
+}
+
+
+@media only screen and (max-width: 800px) 
+{
+
+
+    .films_block
+    {
+        width: 80%;
+        margin: auto;
+        padding: 0;
+    }
+    .film
+    {
+        width: 100%;
+        margin: auto;
+        padding-bottom: 50px;
+    }
+    
+    .film.one
+    {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+    
+    .film_image
+    {
+        width: 100%;
+        height: 400px;
+    }
+
+    .favourite_films_block
+    {
+        width: 80%;
+    }
+
+    .block_one
+    {
+        width: 100%;
+    }
+
+    .block_second
+    {
+        width: 100%;    
+    }
+
+    .main_block
+    {
+        width: 90%;
+    }
+
+    .photo
+    {
+        width: 15%;
+        height: 15%;
+    }
+
+    .write_me
+    {
+        width: 50%;
+    }
+        
+}
+
+@media only screen and (max-width:768px)
+{
+    .feedback_block
+    {
+        width: 100%;
+        margin: auto;
+    }
+
+    .feedback_header
+    {
+        width: 100%;
+    }
+    
+    .input_zone, .input_comment
+    {
+        width: 100%;
+        margin: auto;
+    }
+    
+    .feedback_header:before, .feedback_header:after
+    {
+        display: none;
+    }
+    
+    .navigation li
+    {
+        display: block;
+    }
+
+    .registration_block
+    {
+        width: 71%;
+    }
+
+    .quotes_block
+    {
+       display: none;   
+    }
+
+    .right_block
+    {
+        padding-top: 200px;
+    }
+
+    .name
+    {
+        width: 100%;
+    }
+
+    .write_me
+    {
+        margin: 0;
+        width: 90%;
+    }
+
+}    
